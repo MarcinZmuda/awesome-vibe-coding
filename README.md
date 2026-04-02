@@ -6,7 +6,6 @@
 
 Projects where the majority of code was generated through collaboration with<br>Claude, ChatGPT, Cursor, GitHub Copilot, and other AI coding tools.
 
-[![Lint Awesome List](https://github.com/Qbeczek1/awesome-vibe-coding/actions/workflows/lint.yml/badge.svg)](https://github.com/Qbeczek1/awesome-vibe-coding/actions/workflows/lint.yml)
 [![CC0 License](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
