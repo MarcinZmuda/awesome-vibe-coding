@@ -1,6 +1,22 @@
+<div align="center">
+
 # Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of applications and tools built with AI-assisted development (vibe coding). Projects where the majority of code was generated through collaboration with AI tools like Claude, ChatGPT, Cursor, GitHub Copilot, and others.
+**A curated list of apps and tools built with AI-assisted development — aka vibe coding.**
+
+Projects where the majority of code was generated through collaboration with<br>Claude, ChatGPT, Cursor, GitHub Copilot, and other AI coding tools.
+
+[![Lint Awesome List](https://github.com/Qbeczek1/awesome-vibe-coding/actions/workflows/lint.yml/badge.svg)](https://github.com/Qbeczek1/awesome-vibe-coding/actions/workflows/lint.yml)
+[![CC0 License](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+⭐ Star this repo to keep it in your feed — the list grows every week.
+
+</div>
+
+---
+
+> **What is vibe coding?** A style of programming where you describe what you want in natural language, and an AI generates the code. Coined by [Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383) — *"you fully give in to the vibes, embrace exponentials, and forget that the code even exists."*
 
 ## Contents
 

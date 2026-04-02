@@ -54,6 +54,13 @@ body:
       required: true
 
   - type: input
+    id: new-category
+    attributes:
+      label: Suggest a New Category
+      description: If you selected "Other" above, propose a category name for your project.
+      placeholder: e.g. Finance & Fintech
+
+  - type: input
     id: tech-stack
     attributes:
       label: Tech Stack
