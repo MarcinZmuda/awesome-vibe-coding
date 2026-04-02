@@ -1,0 +1,88 @@
+name: Add Project
+description: Submit a vibe-coded project to the awesome list
+title: "Add: [Project Name]"
+labels: ["new-project"]
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      placeholder: e.g. seo-autopilot
+    validations:
+      required: true
+
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/user/repo
+    validations:
+      required: true
+
+  - type: input
+    id: demo-url
+    attributes:
+      label: Demo / Live URL (if available)
+      placeholder: https://example.com
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Short Description
+      description: One sentence describing what the project does.
+      placeholder: Automated keyword research and SERP tracking dashboard.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - SEO & Digital Marketing
+        - Advertising & PPC
+        - Content & Copywriting
+        - Analytics & Reporting
+        - Productivity
+        - Developer Tools
+        - Data & Analytics
+        - Creative
+        - Education
+        - Games
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: tech-stack
+    attributes:
+      label: Tech Stack
+      description: Main technologies used (e.g. Next.js, Python, React).
+      placeholder: Next.js, Tailwind CSS
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ai-tool
+    attributes:
+      label: AI Tool Used
+      description: Which AI tool was primarily used to build this?
+      options:
+        - Claude (Anthropic)
+        - ChatGPT (OpenAI)
+        - Cursor
+        - GitHub Copilot
+        - Windsurf
+        - Bolt
+        - v0
+        - Lovable
+        - Replit Agent
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Info
+      description: Anything else you'd like to share about the project.
