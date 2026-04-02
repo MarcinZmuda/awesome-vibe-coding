@@ -13,7 +13,6 @@
 
 ## SEO & Digital Marketing
 
-- [Agentic SEO Agent](https://github.com/Dominien/agentic-seo-agent) - Autonomous AI SEO agent that connects to Google Search Console, crawls sites, and generates content in your brand voice. `Next.js` `AI-assisted`
 - [DeepRank-AI](https://github.com/DeepRank-AI/seo-platform-template) - AI SEO platform template with dashboard, keyword research, backlink analysis, and Google Search Console integration. `Vue 3` `OpenAI`
 - [GetCito](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - Open-source AI Search Optimization tool monitoring content performance across ChatGPT, Perplexity, and Gemini. `Next.js` `AI-assisted`
 - [Marketing Skills](https://github.com/kostja94/marketing-skills) - 160+ markdown SEO, content, and marketing skill files for AI agents covering paid ads, growth strategies, and content pages. `Markdown` `Cursor`
