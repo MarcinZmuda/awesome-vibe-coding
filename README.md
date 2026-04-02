@@ -71,6 +71,12 @@ Projects where the majority of code was generated through collaboration with<br>
 - [Scrapstyle](https://github.com/Max-Mogilski/Scrapstyle) - Generates AI-ready design systems and style guides for Cursor and Lovable by scraping website URLs. `TypeScript` `Cursor`
 - [VibeForge](https://github.com/victorgulchenko/VibeForge) - Generates .cursorrules files and project structures for Cursor users using AI. `TypeScript` `Cursor`
 
+## Maintainer
+
+This list is maintained by **[Jakub Sawa](https://www.linkedin.com/in/jakubsawa/)** — SEO expert with 20+ years of experience, former Head of SEO at Onet and Wyborcza.pl (Poland's largest media brands). Co-founder of **[FratreSEO](https://fratreseo.com/)**, a consulting agency specializing in SEO, GEO (Generative Engine Optimization), and AI-readiness for websites. Helping businesses stay visible not only in Google, but also in ChatGPT, Gemini, and AI Overviews.
+
+**Need SEO or AI search consulting?** → [fratreseo.com](https://fratreseo.com/) · [LinkedIn](https://www.linkedin.com/in/jakubsawa/)
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
